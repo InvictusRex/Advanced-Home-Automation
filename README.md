@@ -1,4 +1,4 @@
-# Home Automation System using Gesture Control, Speech Recognition & Mobile App Interface
+# Advanced Home Automation System using Gesture Control, Speech Recognition & Mobile App Interface
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![Arduino](https://img.shields.io/badge/Arduino-Compatible-teal.svg)
